@@ -1,4 +1,4 @@
-module basic
+module github.com/DDFrank/basic
 
 go 1.13
 
